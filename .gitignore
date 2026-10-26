@@ -1,0 +1,22 @@
+# Data: too large for GitHub; see data/README.md for download + sha256
+data/raw/*
+data/processed/*
+!data/**/.gitkeep
+
+# Secrets
+.env
+
+# Course material (confirm with instructor before publishing)
+Project_Req_Rubric.md
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
