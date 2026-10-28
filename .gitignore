@@ -9,6 +9,9 @@ data/processed/*
 # Course material (confirm with instructor before publishing)
 Project_Req_Rubric.md
 
+# Reference documents: large; shared by URL (CFPB 2025 Consumer Response Annual Report)
+/cfpb_2025-cr-annual-report_2026-03.pdf
+
 # Python / Jupyter
 __pycache__/
 *.pyc
