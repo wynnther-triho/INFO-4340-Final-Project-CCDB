@@ -10,6 +10,13 @@ CFPB Consumer Complaint Database (CCDB), monthly export for June 2026.
 - Downloaded: 2026-10-24
 - Save as: `data/raw/CCDB_Export_19_June_2026.zip`
 
+## Reference document
+
+Definitions of the complaint response categories (and other CFPB terms) come from the CFPB's *2025 Consumer Response Annual Report* (published March 2026). It is not committed (large PDF); download it and keep it in the project root as `cfpb_2025-cr-annual-report_2026-03.pdf`, which `.gitignore` already excludes.
+
+- PDF: https://files.consumerfinance.gov/f/documents/cfpb_2025-cr-annual-report_2026-03.pdf
+- Summary page: https://www.consumerfinance.gov/data-research/research-reports/2025-consumer-response-annual-report/
+
 ## Integrity check
 
 The notebook refuses to run unless the file matches this fingerprint:
