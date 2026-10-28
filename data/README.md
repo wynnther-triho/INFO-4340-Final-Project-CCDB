@@ -6,8 +6,8 @@ Raw data is not committed to this repository (the CSV exceeds GitHub's 100 MB li
 
 CFPB Consumer Complaint Database (CCDB), monthly export for June 2026.
 
-- Source URL: _TODO_
-- Downloaded: _TODO_
+- Source URL: https://www.consumerfinance.gov/foia-requests/foia-electronic-reading-room/cfpb-consumer-complaint-database-narratives-archive/ (download the "CCDB Export June 2026" file)
+- Downloaded: 2026-10-24
 - Save as: `data/raw/CCDB_Export_19_June_2026.zip`
 
 ## Integrity check
