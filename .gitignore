@@ -1,6 +1,8 @@
 # Data: too large for GitHub; see data/README.md for download + sha256
 data/raw/*
 data/processed/*
+# Exception: the cleaned modeling set (25 MB) is committed for grading
+!data/processed/ccdb_modeling_set_june_2026.csv
 !data/**/.gitkeep
 
 # Secrets

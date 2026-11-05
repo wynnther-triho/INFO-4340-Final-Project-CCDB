@@ -1,6 +1,6 @@
 # Data
 
-Raw data is not committed to this repository (the CSV exceeds GitHub's 100 MB limit).
+Raw data is not committed to this repository (the CSV exceeds GitHub's 100 MB limit). The cleaned modeling set in `processed/` is committed for grading; the notebook regenerates it from the raw export.
 
 ## Source
 

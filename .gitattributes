@@ -1,0 +1,2 @@
+# Store the modeling-set CSV byte for byte (no line-ending conversion)
+data/processed/*.csv -text
