@@ -59,12 +59,12 @@ Processed file: `data/processed/ccdb_modeling_set_june_2026.csv`, 14,755 rows x 
 | column | role | dtype | null_% | n_unique | cleaning_applied |
 |---|---|---|---|---|---|
 | Complaint ID | id | str | 0.0 | 14755 | None; unique key |
-| Consumer complaint narrative | input | str | 0.0 | 14755 | None; the text is unchanged. PENDING: narrative length |
+| Consumer complaint narrative | input | str | 0.0 | 14755 | None; the text is unchanged. |
 | Issue | target | category | 0.0 | 83 | Copies of one text that disagreed: majority Issue kept, ties dropped; to category |
 | Product | context | category | 0.0 | 11 | To category |
 | Sub-product | context | category | 0.0 | 52 | To category; 'I do not know' kept as its own value |
 | Company | subgroup | category | 0.0 | 991 | To category |
-| State | subgroup | category | 0.7 | 57 | To category. PENDING: codes beyond the 50 states + DC |
+| State | subgroup | category | 0.7 | 57 | To category |
 | Date received | subgroup | datetime64[us] | 0.0 | 30 | Text (YYYY-MM-DD) to datetime |
 | Older American | subgroup | bool | 0.0 | 2 | Yes/no flag split out of Tags |
 | Servicemember | subgroup | bool | 0.0 | 2 | Yes/no flag split out of Tags |
