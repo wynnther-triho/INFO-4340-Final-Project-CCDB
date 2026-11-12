@@ -13,10 +13,13 @@ _TODO: one-paragraph use case and research question._
 | Path | Contents |
 |---|---|
 | `data/raw/` | Original downloads, never modified (git-ignored; see [Data](#data)) |
-| `data/processed/` | Files the notebook generates; only the cleaned modeling set is committed |
+| `data/processed/` | Files the notebook generates; the cleaned modeling set and the train/test split (`split_ids.csv`) are committed |
+| `reference/` | The CFPB complaint form's Product / Sub-product / Issue options (August 2023 PDF); the notebook reads the Issue menus from it |
 | `notebooks/` | Main analysis notebook |
 | `scripts/` | Helper scripts (e.g., `check_ccdb.py` data profile) |
 | `outputs/figures/` | Charts used in the summary and slides |
+| `outputs/llm/` | Saved LLM results (pilots and test run), so the notebook runs without an API key |
+| `outputs/rating/` | Human rating files: the draft rubric now; the raters' sheets and answer key once the rubric is final |
 | `reports/` | Written summary, governance memo, slides (PDF) |
 | `ai_logs/` | Individual AI use logs, one per partner |
 
