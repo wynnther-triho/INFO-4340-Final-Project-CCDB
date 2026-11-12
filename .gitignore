@@ -27,3 +27,6 @@ venv/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Alex's own classifier folder: kept local (its work lives in the notebook's Baseline Classifier section)
+Alex_classifier/
