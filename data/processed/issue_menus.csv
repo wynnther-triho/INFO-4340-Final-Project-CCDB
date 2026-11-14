@@ -1,0 +1,329 @@
+Product,Sub-product,Issue
+Checking or savings account,CD (Certificate of Deposit),Opening an account
+Checking or savings account,CD (Certificate of Deposit),Managing an account
+Checking or savings account,CD (Certificate of Deposit),Closing an account
+Checking or savings account,Checking account,Opening an account
+Checking or savings account,Checking account,Managing an account
+Checking or savings account,Checking account,Closing an account
+Checking or savings account,Checking account,Problem caused by your funds being low
+Checking or savings account,Checking account,Problem with a lender or other company charging your account
+Checking or savings account,Other banking product or service,Opening an account
+Checking or savings account,Other banking product or service,Managing an account
+Checking or savings account,Other banking product or service,Closing an account
+Checking or savings account,Other banking product or service,Problem caused by your funds being low
+Checking or savings account,Other banking product or service,Problem with a lender or other company charging your account
+Checking or savings account,Savings account,Opening an account
+Checking or savings account,Savings account,Managing an account
+Checking or savings account,Savings account,Closing an account
+Checking or savings account,Savings account,Problem caused by your funds being low
+Checking or savings account,Savings account,Problem with a lender or other company charging your account
+Credit card,General-purpose credit card or charge card,Getting a credit card
+Credit card,General-purpose credit card or charge card,"Advertising and marketing, including promotional offers"
+Credit card,General-purpose credit card or charge card,Trouble using your card
+Credit card,General-purpose credit card or charge card,Fees or interest
+Credit card,General-purpose credit card or charge card,Problem with a purchase shown on your statement
+Credit card,General-purpose credit card or charge card,Problem when making payments
+Credit card,General-purpose credit card or charge card,Struggling to pay your bill
+Credit card,General-purpose credit card or charge card,Closing your account
+Credit card,General-purpose credit card or charge card,"Other features, terms, or problems"
+Credit card,Store credit card,Getting a credit card
+Credit card,Store credit card,"Advertising and marketing, including promotional offers"
+Credit card,Store credit card,Trouble using your card
+Credit card,Store credit card,Fees or interest
+Credit card,Store credit card,Problem with a purchase shown on your statement
+Credit card,Store credit card,Problem when making payments
+Credit card,Store credit card,Struggling to pay your bill
+Credit card,Store credit card,Closing your account
+Credit card,Store credit card,"Other features, terms, or problems"
+Credit reporting or other personal consumer reports,Credit reporting,Incorrect information on your report
+Credit reporting or other personal consumer reports,Credit reporting,Problem with a company's investigation into an existing problem
+Credit reporting or other personal consumer reports,Credit reporting,Improper use of your report
+Credit reporting or other personal consumer reports,Credit reporting,Unable to get your credit report or credit score
+Credit reporting or other personal consumer reports,Credit reporting,Credit monitoring or identity theft protection services
+Credit reporting or other personal consumer reports,Credit reporting,Problem with fraud alerts or security freezes
+Credit reporting or other personal consumer reports,Other personal consumer report,Incorrect information on your report
+Credit reporting or other personal consumer reports,Other personal consumer report,Problem with a company's investigation into an existing issue
+Credit reporting or other personal consumer reports,Other personal consumer report,Improper use of your report
+Credit reporting or other personal consumer reports,Other personal consumer report,Identity theft protection or other monitoring services
+Debt collection,Auto debt,Communication tactics
+Debt collection,Auto debt,Attempts to collect debt not owed
+Debt collection,Auto debt,Written notification about debt
+Debt collection,Auto debt,False statements or representation
+Debt collection,Auto debt,Threatened to contact someone or share information improperly
+Debt collection,Auto debt,Took or threatened to take negative or legal action
+Debt collection,Auto debt,Electronic communications
+Debt collection,Credit card debt,Communication tactics
+Debt collection,Credit card debt,Attempts to collect debt not owed
+Debt collection,Credit card debt,Written notification about debt
+Debt collection,Credit card debt,False statements or representation
+Debt collection,Credit card debt,Threatened to contact someone or share information improperly
+Debt collection,Credit card debt,Took or threatened to take negative or legal action
+Debt collection,Credit card debt,Electronic communications
+Debt collection,Federal student loan debt,Communication tactics
+Debt collection,Federal student loan debt,Attempts to collect debt not owed
+Debt collection,Federal student loan debt,Written notification about debt
+Debt collection,Federal student loan debt,False statements or representation
+Debt collection,Federal student loan debt,Threatened to contact someone or share information improperly
+Debt collection,Federal student loan debt,Took or threatened to take negative or legal action
+Debt collection,Federal student loan debt,Electronic communications
+Debt collection,Medical debt,Communication tactics
+Debt collection,Medical debt,Attempts to collect debt not owed
+Debt collection,Medical debt,Written notification about debt
+Debt collection,Medical debt,False statements or representation
+Debt collection,Medical debt,Threatened to contact someone or share information improperly
+Debt collection,Medical debt,Took or threatened to take negative or legal action
+Debt collection,Medical debt,Electronic communications
+Debt collection,Mortgage debt,Communication tactics
+Debt collection,Mortgage debt,Attempts to collect debt not owed
+Debt collection,Mortgage debt,Written notification about debt
+Debt collection,Mortgage debt,False statements or representation
+Debt collection,Mortgage debt,Threatened to contact someone or share information improperly
+Debt collection,Mortgage debt,Took or threatened to take negative or legal action
+Debt collection,Mortgage debt,Electronic communications
+Debt collection,Payday loan debt,Communication tactics
+Debt collection,Payday loan debt,Attempts to collect debt not owed
+Debt collection,Payday loan debt,Written notification about debt
+Debt collection,Payday loan debt,False statements or representation
+Debt collection,Payday loan debt,Threatened to contact someone or share information improperly
+Debt collection,Payday loan debt,Took or threatened to take negative or legal action
+Debt collection,Payday loan debt,Electronic communications
+Debt collection,Private student loan debt,Communication tactics
+Debt collection,Private student loan debt,Attempts to collect debt not owed
+Debt collection,Private student loan debt,Written notification about debt
+Debt collection,Private student loan debt,False statements or representation
+Debt collection,Private student loan debt,Threatened to contact someone or share information improperly
+Debt collection,Private student loan debt,Took or threatened to take negative or legal action
+Debt collection,Private student loan debt,Electronic communications
+Debt collection,Rental debt,Communication tactics
+Debt collection,Rental debt,Attempts to collect debt not owed
+Debt collection,Rental debt,Written notification about debt
+Debt collection,Rental debt,False statements or representation
+Debt collection,Rental debt,Threatened to contact someone or share information improperly
+Debt collection,Rental debt,Took or threatened to take negative or legal action
+Debt collection,Rental debt,Electronic communications
+Debt collection,Telecommunications debt,Communication tactics
+Debt collection,Telecommunications debt,Attempts to collect debt not owed
+Debt collection,Telecommunications debt,Written notification about debt
+Debt collection,Telecommunications debt,False statements or representation
+Debt collection,Telecommunications debt,Threatened to contact someone or share information improperly
+Debt collection,Telecommunications debt,Took or threatened to take negative or legal action
+Debt collection,Telecommunications debt,Electronic communications
+Debt collection,Other debt,Communication tactics
+Debt collection,Other debt,Attempts to collect debt not owed
+Debt collection,Other debt,Written notification about debt
+Debt collection,Other debt,False statements or representation
+Debt collection,Other debt,Threatened to contact someone or share information improperly
+Debt collection,Other debt,Took or threatened to take negative or legal action
+Debt collection,Other debt,Electronic communications
+Debt collection,I do not know,Communication tactics
+Debt collection,I do not know,Attempts to collect debt not owed
+Debt collection,I do not know,Written notification about debt
+Debt collection,I do not know,False statements or representation
+Debt collection,I do not know,Threatened to contact someone or share information improperly
+Debt collection,I do not know,Took or threatened to take negative or legal action
+Debt collection,I do not know,Electronic communications
+Debt or credit management,Credit repair services,Confusing or misleading advertising or marketing
+Debt or credit management,Credit repair services,Problem with customer service
+Debt or credit management,Credit repair services,Confusing or missing disclosures
+Debt or credit management,Credit repair services,Charged upfront or unexpected fees
+Debt or credit management,Credit repair services,Didn't provide services promised
+Debt or credit management,Debt settlement,Confusing or misleading advertising or marketing
+Debt or credit management,Debt settlement,Problem with customer service
+Debt or credit management,Debt settlement,Confusing or missing disclosures
+Debt or credit management,Debt settlement,Charged upfront or unexpected fees
+Debt or credit management,Debt settlement,Didn't provide services promised
+Debt or credit management,Debt settlement,Unauthorized withdrawals or charges
+Debt or credit management,Mortgage modification or foreclosure avoidance,Confusing or misleading advertising or marketing
+Debt or credit management,Mortgage modification or foreclosure avoidance,Problem with customer service
+Debt or credit management,Mortgage modification or foreclosure avoidance,Confusing or missing disclosures
+Debt or credit management,Mortgage modification or foreclosure avoidance,Charged upfront or unexpected fees
+Debt or credit management,Mortgage modification or foreclosure avoidance,Didn't provide services promised
+Debt or credit management,Mortgage modification or foreclosure avoidance,Unauthorized withdrawals or charges
+Debt or credit management,Student loan debt relief,Confusing or misleading advertising or marketing
+Debt or credit management,Student loan debt relief,Confusing or missing disclosures
+Debt or credit management,Student loan debt relief,Charged upfront or unexpected fees
+Debt or credit management,Student loan debt relief,Didn't provide services promised
+Debt or credit management,Student loan debt relief,Unauthorized withdrawals or charges
+"Money transfer, virtual currency, or money service",Domestic (US) money transfer,Money was not available when promised
+"Money transfer, virtual currency, or money service",Domestic (US) money transfer,Wrong amount charged or received
+"Money transfer, virtual currency, or money service",Domestic (US) money transfer,Confusing or missing disclosures
+"Money transfer, virtual currency, or money service",Domestic (US) money transfer,Other transaction problem
+"Money transfer, virtual currency, or money service",Domestic (US) money transfer,Other service problem
+"Money transfer, virtual currency, or money service",Domestic (US) money transfer,Unexpected or other fees
+"Money transfer, virtual currency, or money service",Domestic (US) money transfer,Fraud or scam
+"Money transfer, virtual currency, or money service",International money transfer,Money was not available when promised
+"Money transfer, virtual currency, or money service",International money transfer,Wrong amount charged or received
+"Money transfer, virtual currency, or money service",International money transfer,Confusing or missing disclosures
+"Money transfer, virtual currency, or money service",International money transfer,Other transaction problem
+"Money transfer, virtual currency, or money service",International money transfer,Other service problem
+"Money transfer, virtual currency, or money service",International money transfer,Unexpected or other fees
+"Money transfer, virtual currency, or money service",International money transfer,Fraud or scam
+"Money transfer, virtual currency, or money service",Virtual currency,Money was not available when promised
+"Money transfer, virtual currency, or money service",Virtual currency,Wrong amount charged or received
+"Money transfer, virtual currency, or money service",Virtual currency,Confusing or missing disclosures
+"Money transfer, virtual currency, or money service",Virtual currency,Other transaction problem
+"Money transfer, virtual currency, or money service",Virtual currency,Other service problem
+"Money transfer, virtual currency, or money service",Virtual currency,Unexpected or other fees
+"Money transfer, virtual currency, or money service",Virtual currency,Fraud or scam
+"Money transfer, virtual currency, or money service",Check cashing service,Confusing or misleading advertising or marketing
+"Money transfer, virtual currency, or money service",Check cashing service,Problem with customer service
+"Money transfer, virtual currency, or money service",Check cashing service,Confusing or missing disclosures
+"Money transfer, virtual currency, or money service",Check cashing service,Unexpected or other fees
+"Money transfer, virtual currency, or money service",Check cashing service,Fraud or scam
+"Money transfer, virtual currency, or money service",Foreign currency exchange,Confusing or misleading advertising or marketing
+"Money transfer, virtual currency, or money service",Foreign currency exchange,Incorrect exchange rate
+"Money transfer, virtual currency, or money service",Foreign currency exchange,Problem with customer service
+"Money transfer, virtual currency, or money service",Foreign currency exchange,Confusing or missing disclosures
+"Money transfer, virtual currency, or money service",Foreign currency exchange,Unexpected or other fees
+"Money transfer, virtual currency, or money service",Foreign currency exchange,Fraud or scam
+"Money transfer, virtual currency, or money service",Mobile or digital wallet,"Managing, opening, or closing your mobile wallet account"
+"Money transfer, virtual currency, or money service",Mobile or digital wallet,Unauthorized transactions or other transaction problem
+"Money transfer, virtual currency, or money service",Mobile or digital wallet,Problem adding money
+"Money transfer, virtual currency, or money service",Mobile or digital wallet,Trouble accessing funds in your mobile or digital wallet
+"Money transfer, virtual currency, or money service",Mobile or digital wallet,"Overdraft, savings, or rewards features"
+"Money transfer, virtual currency, or money service",Mobile or digital wallet,Confusing or misleading advertising or marketing
+"Money transfer, virtual currency, or money service",Mobile or digital wallet,Confusing or missing disclosures
+"Money transfer, virtual currency, or money service",Mobile or digital wallet,Unexpected or other fees
+"Money transfer, virtual currency, or money service",Mobile or digital wallet,Fraud or scam
+"Money transfer, virtual currency, or money service","Money order, traveler's check or cashier's check",Confusing or misleading advertising or marketing
+"Money transfer, virtual currency, or money service","Money order, traveler's check or cashier's check",Lost or stolen money order
+"Money transfer, virtual currency, or money service","Money order, traveler's check or cashier's check",Problem with customer service
+"Money transfer, virtual currency, or money service","Money order, traveler's check or cashier's check",Confusing or missing disclosures
+"Money transfer, virtual currency, or money service","Money order, traveler's check or cashier's check",Unexpected or other fees
+"Money transfer, virtual currency, or money service","Money order, traveler's check or cashier's check",Fraud or scam
+Mortgage,Conventional home mortgage,Applying for a mortgage or refinancing an existing mortgage
+Mortgage,Conventional home mortgage,Closing on a mortgage
+Mortgage,Conventional home mortgage,Trouble during payment process
+Mortgage,Conventional home mortgage,Struggling to pay mortgage
+Mortgage,FHA mortgage,Applying for a mortgage or refinancing an existing mortgage
+Mortgage,FHA mortgage,Closing on a mortgage
+Mortgage,FHA mortgage,Trouble during payment process
+Mortgage,FHA mortgage,Struggling to pay mortgage
+Mortgage,Home equity loan or line of credit (HELOC),Applying for a mortgage or refinancing an existing mortgage
+Mortgage,Home equity loan or line of credit (HELOC),Closing on a mortgage
+Mortgage,Home equity loan or line of credit (HELOC),Trouble during payment process
+Mortgage,Home equity loan or line of credit (HELOC),Struggling to pay mortgage
+Mortgage,Manufactured home loan,Applying for a mortgage or refinancing an existing mortgage
+Mortgage,Manufactured home loan,Closing on a mortgage
+Mortgage,Manufactured home loan,Trouble during payment process
+Mortgage,Manufactured home loan,Struggling to pay mortgage
+Mortgage,Reverse mortgage,Applying for a mortgage or refinancing an existing mortgage
+Mortgage,Reverse mortgage,Closing on a mortgage
+Mortgage,Reverse mortgage,Trouble during payment process
+Mortgage,Reverse mortgage,Struggling to pay mortgage
+Mortgage,USDA mortgage,Applying for a mortgage or refinancing an existing mortgage
+Mortgage,USDA mortgage,Closing on a mortgage
+Mortgage,USDA mortgage,Trouble during payment process
+Mortgage,USDA mortgage,Struggling to pay mortgage
+Mortgage,VA mortgage,Applying for a mortgage or refinancing an existing mortgage
+Mortgage,VA mortgage,Closing on a mortgage
+Mortgage,VA mortgage,Trouble during payment process
+Mortgage,VA mortgage,Struggling to pay mortgage
+Mortgage,Other type of mortgage,Applying for a mortgage or refinancing an existing mortgage
+Mortgage,Other type of mortgage,Closing on a mortgage
+Mortgage,Other type of mortgage,Trouble during payment process
+Mortgage,Other type of mortgage,Struggling to pay mortgage
+"Payday loan, title loan, personal loan, or advance loan",Installment loan,Getting the loan
+"Payday loan, title loan, personal loan, or advance loan",Installment loan,Problem when making payments
+"Payday loan, title loan, personal loan, or advance loan",Installment loan,Struggling to pay your loan
+"Payday loan, title loan, personal loan, or advance loan",Installment loan,Problem with the payoff process at the end of the loan
+"Payday loan, title loan, personal loan, or advance loan",Installment loan,Charged fees or interest you didn't expect
+"Payday loan, title loan, personal loan, or advance loan",Installment loan,Problem with additional add-on products or services
+"Payday loan, title loan, personal loan, or advance loan",Payday loan,Charged fees or interest you didn't expect
+"Payday loan, title loan, personal loan, or advance loan",Payday loan,Can't stop withdrawals from your bank account
+"Payday loan, title loan, personal loan, or advance loan",Payday loan,Received a loan you didn't apply for
+"Payday loan, title loan, personal loan, or advance loan",Payday loan,"Was approved for a loan, but didn't receive the money"
+"Payday loan, title loan, personal loan, or advance loan",Payday loan,Money was taken from your bank account on the wrong day or for the wrong amount
+"Payday loan, title loan, personal loan, or advance loan",Payday loan,Loan payment wasn't credited to your account
+"Payday loan, title loan, personal loan, or advance loan",Payday loan,Can't contact lender or servicer
+"Payday loan, title loan, personal loan, or advance loan",Payday loan,Struggling to pay your loan
+"Payday loan, title loan, personal loan, or advance loan",Payday loan,Problem with the payoff process at the end of the loan
+"Payday loan, title loan, personal loan, or advance loan",Pawn loan,Charged fees or interest you didn't expect
+"Payday loan, title loan, personal loan, or advance loan",Pawn loan,Received a loan you didn't apply for
+"Payday loan, title loan, personal loan, or advance loan",Pawn loan,"Was approved for a loan, but didn't receive the money"
+"Payday loan, title loan, personal loan, or advance loan",Pawn loan,Can't contact lender or servicer
+"Payday loan, title loan, personal loan, or advance loan",Pawn loan,Property was sold
+"Payday loan, title loan, personal loan, or advance loan",Pawn loan,Property was damaged or destroyed property
+"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,Getting a line of credit
+"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,Problem when making payments
+"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,Struggling to pay your loan
+"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,Problem with the payoff process at the end of the loan
+"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,Charged fees or interest you didn't expect
+"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,Problem with additional add-on products or services
+"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,Problem with cash advance
+"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,Credit limit changed
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Charged fees or interest you didn't expect
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Can't stop withdrawals from your bank account
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Received a loan you didn't apply for
+"Payday loan, title loan, personal loan, or advance loan",Title loan,"Was approved for a loan, but didn't receive money"
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Money was taken from your bank account on the wrong day or for the wrong amount
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Loan payment wasn't credited to your account
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Can't contact lender or servicer
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Struggling to pay your loan
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Problem with the payoff process at the end of the loan
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Vehicle was repossessed or sold the vehicle
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Vehicle was damaged or destroyed the vehicle
+"Payday loan, title loan, personal loan, or advance loan",Earned wage access,Confusing or misleading advertising or marketing
+"Payday loan, title loan, personal loan, or advance loan",Earned wage access,Confusing or missing disclosures
+"Payday loan, title loan, personal loan, or advance loan",Earned wage access,Unexpected fees
+"Payday loan, title loan, personal loan, or advance loan",Earned wage access,Problems receiving the advance
+"Payday loan, title loan, personal loan, or advance loan",Earned wage access,Issues with repayment
+"Payday loan, title loan, personal loan, or advance loan",Tax refund anticipation loan or check,Confusing or misleading advertising or marketing
+"Payday loan, title loan, personal loan, or advance loan",Tax refund anticipation loan or check,Confusing or missing disclosures
+"Payday loan, title loan, personal loan, or advance loan",Tax refund anticipation loan or check,Unexpected fees
+"Payday loan, title loan, personal loan, or advance loan",Tax refund anticipation loan or check,Problems receiving the advance
+"Payday loan, title loan, personal loan, or advance loan",Tax refund anticipation loan or check,Issues with repayment
+"Payday loan, title loan, personal loan, or advance loan",Tax refund anticipation loan or check,Lost or stolen refund
+"Payday loan, title loan, personal loan, or advance loan",Tax refund anticipation loan or check,Problem with customer service
+"Payday loan, title loan, personal loan, or advance loan",Other advances of future income,Confusing or misleading advertising or marketing
+"Payday loan, title loan, personal loan, or advance loan",Other advances of future income,Confusing or missing disclosures
+"Payday loan, title loan, personal loan, or advance loan",Other advances of future income,Unexpected fees
+"Payday loan, title loan, personal loan, or advance loan",Other advances of future income,Problems receiving the advance
+"Payday loan, title loan, personal loan, or advance loan",Other advances of future income,Issues with repayment
+Prepaid card,General-purpose prepaid card,Problem getting a card or closing an account
+Prepaid card,General-purpose prepaid card,Unexpected or other fees
+Prepaid card,General-purpose prepaid card,Problem with a purchase or transfer
+Prepaid card,General-purpose prepaid card,Trouble using the card
+Prepaid card,General-purpose prepaid card,Problem with overdraft
+Prepaid card,General-purpose prepaid card,Advertising
+Prepaid card,Gift card,Problem getting a card or closing an account
+Prepaid card,Gift card,Unexpected or other fees
+Prepaid card,Gift card,Problem with a purchase or transfer
+Prepaid card,Gift card,Trouble using the card
+Prepaid card,Gift card,Problem with overdraft
+Prepaid card,Gift card,Advertising
+Prepaid card,Government benefit card,Problem getting a card or closing an account
+Prepaid card,Government benefit card,Unexpected or other fees
+Prepaid card,Government benefit card,Problem with a purchase or transfer
+Prepaid card,Government benefit card,Trouble using the card
+Prepaid card,Government benefit card,Problem with overdraft
+Prepaid card,Government benefit card,Advertising
+Prepaid card,Payroll card,Problem getting a card or closing an account
+Prepaid card,Payroll card,Unexpected or other fees
+Prepaid card,Payroll card,Problem with a purchase or transfer
+Prepaid card,Payroll card,Trouble using the card
+Prepaid card,Payroll card,Problem with overdraft
+Prepaid card,Payroll card,Advertising
+Prepaid card,Student prepaid card,Problem getting a card or closing an account
+Prepaid card,Student prepaid card,Unexpected or other fees
+Prepaid card,Student prepaid card,Problem with a purchase or transfer
+Prepaid card,Student prepaid card,Trouble using the card
+Prepaid card,Student prepaid card,Problem with overdraft
+Prepaid card,Student prepaid card,Advertising
+Student loan,Federal student loan servicing,Dealing with your lender or servicer
+Student loan,Federal student loan servicing,Struggling to repay your loan
+Student loan,Private student loan,Getting a loan
+Student loan,Private student loan,Dealing with your lender or servicer
+Student loan,Private student loan,Struggling to repay your loan
+Student loan,Private student loan,Issue where my lender is my school
+Student loan,Private student loan,Issue with income share agreement
+Vehicle loan or lease,Loan,Getting a loan or lease
+Vehicle loan or lease,Loan,Managing the loan or lease
+Vehicle loan or lease,Loan,Struggling to pay your loan
+Vehicle loan or lease,Loan,Problems at the end of the loan or lease
+Vehicle loan or lease,Loan,Repossession
+Vehicle loan or lease,Lease,Getting a loan or lease
+Vehicle loan or lease,Lease,Managing the loan or lease
+Vehicle loan or lease,Lease,Struggling to pay your loan
+Vehicle loan or lease,Lease,Problems at the end of the loan or lease
+Vehicle loan or lease,Lease,Repossession

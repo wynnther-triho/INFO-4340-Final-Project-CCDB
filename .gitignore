@@ -5,6 +5,8 @@ data/processed/*
 !data/processed/ccdb_modeling_set_june_2026.csv
 # Exception: the train/test split, so both partners score on the same rows
 !data/processed/split_ids.csv
+# Exception: the form's Issue menus, so the Evaluation section and the back-test run without the form PDF
+!data/processed/issue_menus.csv
 !data/**/.gitkeep
 
 # Secrets
