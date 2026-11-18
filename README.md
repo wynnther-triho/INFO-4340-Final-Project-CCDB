@@ -4,6 +4,10 @@ This project evaluates whether a large language model can help route consumer co
 
 [Download the HTML notebook](notebooks/final_project.html). On GitHub, click **Download raw file**, then open the downloaded file in your browser to see the saved tables and charts.
 
+[View the presentation slides (PDF)](reports/CFPB_LLM_vs_Classifier.pdf)
+
+[Read the final written summary (PDF)](reports/CCDB-WrittenSummary.pdf)
+
 ## Reproduce
 
 1. Install dependencies: `pip install -r requirements.txt`
