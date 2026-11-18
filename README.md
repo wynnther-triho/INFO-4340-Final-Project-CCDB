@@ -2,6 +2,10 @@
 
 This project evaluates whether a large language model can help route consumer complaints filed with the Consumer Financial Protection Bureau (CFPB) by suggesting an Issue from the complaint form. Using 2,950 held-out complaint narratives, we ask how often zero-shot Claude Sonnet 5.5 matches the Issue selected by the consumer compared with a trained TF-IDF and logistic regression classifier given the same Issue menu. We also test whether model disagreement and low confidence can identify complaints that should go to a human reviewer before routing.
 
+## Key findings
+
+On 2,950 held-out CFPB complaints, Classifier A achieved 48.14% accuracy, Classifier B achieved 60.31%, and Claude Sonnet achieved 66.03%. Sonnet led Classifier B by 5.73 percentage points. The final human-review rule flagged 773 complaints (26.2%) and caught 480 of the 1,002 cases where Sonnet differed from the recorded Issue.
+
 [Download the HTML notebook](notebooks/final_project.html). On GitHub, click **Download raw file**, then open the downloaded file in your browser to see the saved tables and charts.
 
 [View the presentation slides (PDF)](reports/CFPB_LLM_vs_Classifier.pdf)
@@ -12,9 +16,23 @@ This project evaluates whether a large language model can help route consumer co
 
 ## Reproduce
 
-1. Install dependencies: `pip install -r requirements.txt`
-2. Download the data as described under [Data](#data) below.
-3. Run [notebooks/final_project.ipynb](notebooks/final_project.ipynb) top to bottom.
+From the repository root, create a Python 3.12 environment and install the dependencies:
+
+```bash
+python3.12 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt jupyterlab jinja2
+```
+
+Download the June 2026 CFPB archive using the instructions under [Data](#data) and save it as `data/raw/CCDB_Export_19_June_2026.zip`.
+
+Launch JupyterLab from the repository root:
+
+```bash
+jupyter lab
+```
+
+Open [notebooks/final_project.ipynb](notebooks/final_project.ipynb), select the Python kernel from `.venv`, and run all cells from top to bottom. The notebook uses the committed AI outputs by default, so an API key is not required. Classifier tuning can take several minutes.
 
 ## Repository layout
 
@@ -27,7 +45,7 @@ This project evaluates whether a large language model can help route consumer co
 | `scripts/` | Helper scripts (e.g., `check_ccdb.py` data profile) |
 | `outputs/figures/` | Charts used in the summary and slides |
 | `outputs/llm/` | Saved LLM results (pilots and test run), so the notebook runs without an API key |
-| `outputs/rating/` | Human rating files: the draft rubric now; the raters' sheets and answer key once the rubric is final |
+| `outputs/rating/` | Completed human-rating workbooks and the answer key used for the agreement analysis | sheets and answer key once the rubric is final |
 | `reports/` | Written summary, governance memo, slides (PDF) |
 | `ai_logs/` | Individual AI use logs, one per partner |
 
