@@ -8,6 +8,8 @@ This project evaluates whether a large language model can help route consumer co
 
 [Read the final written summary (PDF)](reports/CCDB-WrittenSummary.pdf)
 
+[Read the governance memo (PDF)](reports/GovernanceMemo.pdf)
+
 ## Reproduce
 
 1. Install dependencies: `pip install -r requirements.txt`
