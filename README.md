@@ -1,6 +1,8 @@
 # AI Analytics Final Project: CFPB Consumer Complaints
 
-_TODO: one-paragraph use case and research question._
+This project evaluates whether a large language model can help route consumer complaints filed with the Consumer Financial Protection Bureau (CFPB) by suggesting an Issue from the complaint form. Using 2,950 held-out complaint narratives, we ask how often zero-shot Claude Sonnet 5.5 matches the Issue selected by the consumer compared with a trained TF-IDF and logistic regression classifier given the same Issue menu. We also test whether model disagreement and low confidence can identify complaints that should go to a human reviewer before routing.
+
+[Download the HTML notebook](notebooks/final_project.html). On GitHub, click **Download raw file**, then open the downloaded file in your browser to see the saved tables and charts.
 
 ## Reproduce
 
