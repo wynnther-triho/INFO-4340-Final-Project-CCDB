@@ -45,7 +45,7 @@ Open [notebooks/final_project.ipynb](notebooks/final_project.ipynb), select the 
 | `scripts/` | Helper scripts (e.g., `check_ccdb.py` data profile) |
 | `outputs/figures/` | Charts used in the summary and slides |
 | `outputs/llm/` | Saved LLM results (pilots and test run), so the notebook runs without an API key |
-| `outputs/rating/` | Completed human-rating workbooks and the answer key used for the agreement analysis | sheets and answer key once the rubric is final |
+| `outputs/rating/` | Completed human-rating workbooks and the answer key used for the agreement analysis |
 | `reports/` | Written summary, governance memo, slides (PDF) |
 | `ai_logs/` | Individual AI use logs, one per partner |
 
